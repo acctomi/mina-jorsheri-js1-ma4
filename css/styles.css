@@ -1,0 +1,13 @@
+.error {
+    color: red;
+    display: none;
+}
+body {
+  background-color: #C9C2EB;
+}
+.image {
+    height: 200px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
